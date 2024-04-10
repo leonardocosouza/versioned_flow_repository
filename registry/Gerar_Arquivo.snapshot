@@ -52,20 +52,7 @@
         "identifier" : "2bc5d337-cb75-380f-be48-cf34e4342423",
         "inputPorts" : [ ],
         "instanceIdentifier" : "c4ffc973-018e-1000-ab42-ad2f2ceda0a1",
-        "labels" : [ {
-          "componentType" : "LABEL",
-          "groupIdentifier" : "2bc5d337-cb75-380f-be48-cf34e4342423",
-          "height" : 232.0,
-          "identifier" : "0a2d3dd7-eaf7-3d2e-b6b9-509d6054590e",
-          "instanceIdentifier" : "c506d09c-018e-1000-124c-525b461ddecc",
-          "position" : {
-            "x" : 75.09422481833474,
-            "y" : 309.9887696723831
-          },
-          "style" : { },
-          "width" : 424.0,
-          "zIndex" : 0
-        } ],
+        "labels" : [ ],
         "logFileSuffix" : "",
         "name" : "Gerar Arquivos",
         "outputPorts" : [ ],
